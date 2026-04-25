@@ -68,6 +68,6 @@
 
 ---
 
-<p align="center">← [§3 · 支气管树的递归](03-bronchial-recursion.md) &nbsp;·&nbsp; [目录](../README.md) &nbsp;·&nbsp; [§5 · 血流的雷诺数](05-reynolds-of-blood.md) →</p>
+← [§3 · 支气管树的递归](03-bronchial-recursion.md) · [目录](../README.md) · [§5 · 血流的雷诺数](05-reynolds-of-blood.md) →
 
 <!-- nav-end -->

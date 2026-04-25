@@ -129,6 +129,6 @@ $$P \propto M^{3/4}$$
 
 ---
 
-<p align="center">← [§12 · 沉默的器官](12-silent-organ.md) &nbsp;·&nbsp; [目录](../README.md) &nbsp;·&nbsp; [§14 · 心率与寿命](14-heartbeat-and-lifespan.md) →</p>
+← [§12 · 沉默的器官](12-silent-organ.md) · [目录](../README.md) · [§14 · 心率与寿命](14-heartbeat-and-lifespan.md) →
 
 <!-- nav-end -->

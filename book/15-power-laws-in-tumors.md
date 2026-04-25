@@ -120,6 +120,6 @@ $$P(x) \propto x^{-\alpha}$$
 
 ---
 
-<p align="center">← [§14 · 心率与寿命](14-heartbeat-and-lifespan.md) &nbsp;·&nbsp; [目录](../README.md) &nbsp;·&nbsp; [§16 · 创口愈合的弹性](16-elasticity-of-wound-healing.md) →</p>
+← [§14 · 心率与寿命](14-heartbeat-and-lifespan.md) · [目录](../README.md) · [§16 · 创口愈合的弹性](16-elasticity-of-wound-healing.md) →
 
 <!-- nav-end -->

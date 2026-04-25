@@ -106,6 +106,6 @@ $$\text{总心跳数} = \text{HR} \times \text{lifespan} \propto M^{-1/4} \times
 
 ---
 
-<p align="center">← [§13 · 代谢的尺度律](13-scaling-of-metabolism.md) &nbsp;·&nbsp; [目录](../README.md) &nbsp;·&nbsp; [§15 · 肿瘤的幂律](15-power-laws-in-tumors.md) →</p>
+← [§13 · 代谢的尺度律](13-scaling-of-metabolism.md) · [目录](../README.md) · [§15 · 肿瘤的幂律](15-power-laws-in-tumors.md) →
 
 <!-- nav-end -->

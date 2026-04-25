@@ -83,6 +83,6 @@ $$\Delta P = \frac{2\gamma(r)}{r}$$
 
 ---
 
-<p align="center">← [§1 · 血管的分形几何](01-vasculature-as-fractal.md) &nbsp;·&nbsp; [目录](../README.md) &nbsp;·&nbsp; [§3 · 支气管树的递归](03-bronchial-recursion.md) →</p>
+← [§1 · 血管的分形几何](01-vasculature-as-fractal.md) · [目录](../README.md) · [§3 · 支气管树的递归](03-bronchial-recursion.md) →
 
 <!-- nav-end -->

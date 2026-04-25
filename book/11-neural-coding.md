@@ -87,6 +87,6 @@ McCulloch 和 Pitts 在 1943 年那篇奠基性论文里给出了一个简洁的
 
 ---
 
-<p align="center">← [§10 · 心电的频谱](10-spectrum-of-ecg.md) &nbsp;·&nbsp; [目录](../README.md) &nbsp;·&nbsp; [§12 · 沉默的器官](12-silent-organ.md) →</p>
+← [§10 · 心电的频谱](10-spectrum-of-ecg.md) · [目录](../README.md) · [§12 · 沉默的器官](12-silent-organ.md) →
 
 <!-- nav-end -->

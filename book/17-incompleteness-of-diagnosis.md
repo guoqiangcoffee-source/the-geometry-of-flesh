@@ -100,6 +100,6 @@ Gödel 这套是博士才开始读的。读完之后回头看医学,会注意到
 
 ---
 
-<p align="center">← [§16 · 创口愈合的弹性](16-elasticity-of-wound-healing.md) &nbsp;·&nbsp; [目录](../README.md) &nbsp;·&nbsp; [§18 · 不可观测的预后](18-unobservable-prognosis.md) →</p>
+← [§16 · 创口愈合的弹性](16-elasticity-of-wound-healing.md) · [目录](../README.md) · [§18 · 不可观测的预后](18-unobservable-prognosis.md) →
 
 <!-- nav-end -->

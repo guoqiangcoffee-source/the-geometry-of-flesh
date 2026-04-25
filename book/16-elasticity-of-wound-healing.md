@@ -102,6 +102,6 @@
 
 ---
 
-<p align="center">← [§15 · 肿瘤的幂律](15-power-laws-in-tumors.md) &nbsp;·&nbsp; [目录](../README.md) &nbsp;·&nbsp; [§17 · 诊断的不完备](17-incompleteness-of-diagnosis.md) →</p>
+← [§15 · 肿瘤的幂律](15-power-laws-in-tumors.md) · [目录](../README.md) · [§17 · 诊断的不完备](17-incompleteness-of-diagnosis.md) →
 
 <!-- nav-end -->

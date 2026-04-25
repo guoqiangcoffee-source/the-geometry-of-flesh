@@ -113,6 +113,6 @@
 
 ---
 
-<p align="center">← [附录 A · 未完成的病例](appendix-a-unfinished-cases.md) &nbsp;·&nbsp; [目录](../README.md) &nbsp;·&nbsp; [附录 C · 关于核心概念](appendix-c-concept.md) →</p>
+← [附录 A · 未完成的病例](appendix-a-unfinished-cases.md) · [目录](../README.md) · [附录 C · 关于核心概念](appendix-c-concept.md) →
 
 <!-- nav-end -->

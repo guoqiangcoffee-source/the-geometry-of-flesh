@@ -81,6 +81,6 @@
 
 ---
 
-<p align="center">← [§2 · 肺泡与表面张力](02-alveoli-and-surface-tension.md) &nbsp;·&nbsp; [目录](../README.md) &nbsp;·&nbsp; [§4 · 心包的拓扑](04-pericardium-topology.md) →</p>
+← [§2 · 肺泡与表面张力](02-alveoli-and-surface-tension.md) · [目录](../README.md) · [§4 · 心包的拓扑](04-pericardium-topology.md) →
 
 <!-- nav-end -->

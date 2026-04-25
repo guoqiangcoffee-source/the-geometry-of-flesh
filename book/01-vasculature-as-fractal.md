@@ -77,6 +77,6 @@ $$D = \frac{\log N}{\log(1/s)}$$
 
 ---
 
-<p align="center">← [序](00-preface.md) &nbsp;·&nbsp; [目录](../README.md) &nbsp;·&nbsp; [§2 · 肺泡与表面张力](02-alveoli-and-surface-tension.md) →</p>
+← [序](00-preface.md) · [目录](../README.md) · [§2 · 肺泡与表面张力](02-alveoli-and-surface-tension.md) →
 
 <!-- nav-end -->

@@ -100,6 +100,6 @@ Shannon 在 1948 年那篇划时代的论文里给出了一个关键的量——
 
 ---
 
-<p align="center">← [§8 · 呼吸的振荡器](08-respiratory-oscillator.md) &nbsp;·&nbsp; [目录](../README.md) &nbsp;·&nbsp; [§10 · 心电的频谱](10-spectrum-of-ecg.md) →</p>
+← [§8 · 呼吸的振荡器](08-respiratory-oscillator.md) · [目录](../README.md) · [§10 · 心电的频谱](10-spectrum-of-ecg.md) →
 
 <!-- nav-end -->

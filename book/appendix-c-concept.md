@@ -62,6 +62,6 @@ Murray Gell-Mann、Stuart Kauffman、Per Bak 这些人各自从不同角度延�
 
 ---
 
-<p align="center">← [附录 B · 化用的哲学传统](appendix-b-philosophy.md) &nbsp;·&nbsp; [目录](../README.md) &nbsp;·&nbsp; [附录 D · 延伸阅读](appendix-d-further-reading.md) →</p>
+← [附录 B · 化用的哲学传统](appendix-b-philosophy.md) · [目录](../README.md) · [附录 D · 延伸阅读](appendix-d-further-reading.md) →
 
 <!-- nav-end -->
