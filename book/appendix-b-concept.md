@@ -1,4 +1,4 @@
-# 附录 C · 关于"肉身的几何"
+# 附录 B · 关于"肉身的几何"
 ### *On the Concept "Geometry of Flesh"*
 
 ---
@@ -105,9 +105,9 @@ Murray Gell-Mann、Stuart Kauffman、Per Bak 这些人各自从不同角度延�
 **附录 / *Appendix***
 
 - [A · 未完成的病例](appendix-a-unfinished-cases.md)
-- [B · 化用的哲学传统](appendix-b-philosophy.md)
-- **C · 关于核心概念**
-- [D · 延伸阅读](appendix-d-further-reading.md)
+- [B · 化用的哲学传统](appendix-a-philosophy.md)
+- **B · 关于核心概念**
+- [C · 延伸阅读](appendix-c-further-reading.md)
 
 [← 返回 README](../README.md)
 

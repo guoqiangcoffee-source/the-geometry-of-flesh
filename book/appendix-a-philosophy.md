@@ -1,4 +1,4 @@
-# 附录 B · 本书化用的哲学传统
+# 附录 A · 本书化用的哲学传统
 ### *Philosophical Traditions Behind This Book*
 
 ---
@@ -157,8 +157,8 @@
 
 - [A · 未完成的病例](appendix-a-unfinished-cases.md)
 - **B · 化用的哲学传统**
-- [C · 关于核心概念](appendix-c-concept.md)
-- [D · 延伸阅读](appendix-d-further-reading.md)
+- [B · 关于核心概念](appendix-b-concept.md)
+- [C · 延伸阅读](appendix-c-further-reading.md)
 
 [← 返回 README](../README.md)
 

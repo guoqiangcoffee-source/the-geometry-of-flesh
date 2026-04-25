@@ -61,10 +61,9 @@
 - [§21 · 意识的边界 / *The Edge of Consciousness*](book/21-edge-of-consciousness.md)
 
 ### 附录 / *Appendix*
-- [A · 一些未完成的病例 / *Unfinished Cases*](book/appendix-a-unfinished-cases.md)
-- [B · 本书化用的哲学传统 / *Philosophical Traditions Behind This Book*](book/appendix-b-philosophy.md)
-- [C · 关于本书的方法 / *On the Method of This Book*](book/appendix-c-concept.md)
-- [D · 延伸阅读 / *Further Reading*](book/appendix-d-further-reading.md)
+- [A · 本书化用的哲学传统 / *Philosophical Traditions Behind This Book*](book/appendix-a-philosophy.md)
+- [B · 关于本书的方法 / *On the Method of This Book*](book/appendix-b-concept.md)
+- [C · 延伸阅读 / *Further Reading*](book/appendix-c-further-reading.md)
 
 ---
 

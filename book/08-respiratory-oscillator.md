@@ -146,9 +146,9 @@ Huygens 当时不理解这件事。他觉得这是某种"奇怪的同情"。三�
 **附录 / *Appendix***
 
 - [A · 未完成的病例](appendix-a-unfinished-cases.md)
-- [B · 化用的哲学传统](appendix-b-philosophy.md)
-- [C · 关于核心概念](appendix-c-concept.md)
-- [D · 延伸阅读](appendix-d-further-reading.md)
+- [B · 化用的哲学传统](appendix-a-philosophy.md)
+- [B · 关于核心概念](appendix-b-concept.md)
+- [C · 延伸阅读](appendix-c-further-reading.md)
 
 [← 返回 README](../README.md)
 
