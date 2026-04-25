@@ -60,7 +60,7 @@
 ### 附录 / *Appendix*
 - [A · 一些未完成的病例 / *Unfinished Cases*](book/appendix-a-unfinished-cases.md)
 - [B · 本书化用的哲学传统 / *Philosophical Traditions Behind This Book*](book/appendix-b-philosophy.md)
-- [C · 关于本书的方法 / *On the Method of This Book*](book/appendix-c-method.md)
+- [C · 关于本书的方法 / *On the Method of This Book*](book/appendix-c-concept.md)
 - [D · 延伸阅读 / *Further Reading*](book/appendix-d-further-reading.md)
 
 ---
