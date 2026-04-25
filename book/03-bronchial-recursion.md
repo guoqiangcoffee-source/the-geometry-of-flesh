@@ -23,14 +23,12 @@
 
 最简单的递归长这样：定义一个对象 $A$，规则是"$A$ 包含若干个比它小的 $A$"。如果你写一段代码：
 
-```
-draw(A, scale):
-    if scale < threshold:
-        return
-    画一个 A
-    for each 子分支:
-        draw(A, scale * ratio)
-```
+```draw(A, scale):
+if scale < threshold:
+return
+画一个 A
+for each 子分支:
+draw(A, scale * ratio)
 
 这段几行的代码，能生成一棵以假乱真的树。计算机图形学里用它画蕨类、画云、画山脉。它不是在模仿自然，它是在**重演自然用过的同一套规则**。
 
@@ -85,5 +83,3 @@ draw(A, scale):
 支气管镜推到第五代，画面已经开始模糊——管腔太细，光线进不去多少。我把镜子稍稍后撤一点，让视野重新清晰。
 
 下一支。
-
-*(本章未完)*
