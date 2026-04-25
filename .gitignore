@@ -19,23 +19,14 @@ Thumbs.db
 *.tmp
 *~
 
-# 草稿(不公开)
-draft/
-notes/
-
-# === 写作工作区(私有,不公开) ===
-_private/
-PROMPT.md
-PROMPT.md.bak
-setup_book.py
-fix_voice.py
-fix_voice_2.py
-update_prompt_v53.py
-cleanup_repo.py
-push.bat
-main.py
-*.bat
-# 任何在项目根目录的 .py 脚本和 .bat 都视为私有工具
+# 根目录的脚本和私有工作区(不公开)
 /*.py
 /*.bat
-fix_endings.py
+/*.md.bak
+_private/
+
+# 自动生成的合并版(本地保留,不公开)
+BOOK.md
+
+# scripts 目录(本地保留,不公开)
+scripts/
