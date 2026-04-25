@@ -56,3 +56,11 @@
 ---
 
 <p align="right"><i>2026</i></p>
+
+<!-- nav-start -->
+
+---
+
+<p align="center">← &nbsp;·&nbsp; [目录](../README.md) &nbsp;·&nbsp; [§1 · 血管的分形几何](01-vasculature-as-fractal.md) →</p>
+
+<!-- nav-end -->
