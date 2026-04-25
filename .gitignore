@@ -35,3 +35,7 @@ cleanup_repo.py
 push.bat
 main.py
 *.bat
+# 任何在项目根目录的 .py 脚本和 .bat 都视为私有工具
+/*.py
+/*.bat
+fix_endings.py
