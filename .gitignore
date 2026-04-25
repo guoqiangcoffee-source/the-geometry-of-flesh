@@ -22,3 +22,16 @@ Thumbs.db
 # 草稿(不公开)
 draft/
 notes/
+
+# === 写作工作区(私有,不公开) ===
+_private/
+PROMPT.md
+PROMPT.md.bak
+setup_book.py
+fix_voice.py
+fix_voice_2.py
+update_prompt_v53.py
+cleanup_repo.py
+push.bat
+main.py
+*.bat
